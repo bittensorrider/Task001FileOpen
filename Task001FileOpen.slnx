@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Task001FileOpen/Task001FileOpen.vcxproj" Id="3ea73cbc-9066-4215-a17f-e27a964251e2" />
+</Solution>
